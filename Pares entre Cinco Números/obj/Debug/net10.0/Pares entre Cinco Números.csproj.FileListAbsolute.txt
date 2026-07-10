@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\bin\Debug\net10.0\Pares entre Cinco Números.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\bin\Debug\net10.0\Pares entre Cinco Números.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\bin\Debug\net10.0\Pares entre Cinco Números.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\bin\Debug\net10.0\Pares entre Cinco Números.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\bin\Debug\net10.0\Pares entre Cinco Números.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\refint\Pares entre Cinco Números.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\Pares entre Cinco Números.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Pares entre Cinco Números\obj\Debug\net10.0\ref\Pares entre Cinco Números.dll

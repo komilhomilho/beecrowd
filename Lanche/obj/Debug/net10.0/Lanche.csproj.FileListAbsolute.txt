@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\bin\Debug\net10.0\Lanche.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\bin\Debug\net10.0\Lanche.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\bin\Debug\net10.0\Lanche.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\bin\Debug\net10.0\Lanche.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\bin\Debug\net10.0\Lanche.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\refint\Lanche.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\Lanche.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Lanche\obj\Debug\net10.0\ref\Lanche.dll

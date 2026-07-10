@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\bin\Debug\net10.0\Imposto de Renda.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\refint\Imposto de Renda.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\Imposto de Renda.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Imposto de Renda\obj\Debug\net10.0\ref\Imposto de Renda.dll

@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\bin\Debug\net10.0\NotasClasse.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\bin\Debug\net10.0\NotasClasse.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\bin\Debug\net10.0\NotasClasse.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\bin\Debug\net10.0\NotasClasse.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\bin\Debug\net10.0\NotasClasse.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\refint\NotasClasse.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\NotasClasse.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\NotasClasse\obj\Debug\net10.0\ref\NotasClasse.dll

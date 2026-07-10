@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\bin\Debug\net10.0\Tempo de Jogo com Minutos.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\bin\Debug\net10.0\Tempo de Jogo com Minutos.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\bin\Debug\net10.0\Tempo de Jogo com Minutos.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\bin\Debug\net10.0\Tempo de Jogo com Minutos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\bin\Debug\net10.0\Tempo de Jogo com Minutos.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\refint\Tempo de Jogo com Minutos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\Tempo de Jogo com Minutos.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Tempo de Jogo com Minutos\obj\Debug\net10.0\ref\Tempo de Jogo com Minutos.dll

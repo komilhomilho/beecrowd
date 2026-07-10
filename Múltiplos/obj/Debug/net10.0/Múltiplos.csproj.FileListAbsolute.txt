@@ -1,0 +1,14 @@
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\bin\Debug\net10.0\Múltiplos.exe
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\bin\Debug\net10.0\Múltiplos.deps.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\bin\Debug\net10.0\Múltiplos.runtimeconfig.json
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\bin\Debug\net10.0\Múltiplos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\bin\Debug\net10.0\Múltiplos.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.GeneratedMSBuildEditorConfig.editorconfig
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.AssemblyInfoInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.AssemblyInfo.cs
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.csproj.CoreCompileInputs.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\refint\Múltiplos.dll
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.pdb
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\Múltiplos.genruntimeconfig.cache
+d:\Alex\Curso\Projetos C#\Beecrowd\Múltiplos\obj\Debug\net10.0\ref\Múltiplos.dll
