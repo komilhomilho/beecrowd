@@ -1,0 +1,17 @@
+{
+  "name": "beecrowd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "imports": {
+    "#input": "./Modules/inputs.js"
+  },
+  "scripts": {
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komilhomilho/beecrowd.git"
+  },
+  "license": "ISC"
+}
