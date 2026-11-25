@@ -1,13 +1,13 @@
 import {lines} from "#input"
 
-lines.shift()
-let anterior = lines.shift()
+let i = parseInt(lines.shift())
+let anterior = 0
 let resultado = 0
-lines.forEach(x =>{
-    if(anterior != x){
-        anterior = x;
-        resultado++;
+for(i >= 0; i--;){
+    if(anterior != lines[i]){
+        anterior = lines[i]
+        resultado++
     }
-}) 
+}
 
 console.log(resultado)
